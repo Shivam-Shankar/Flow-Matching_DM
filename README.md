@@ -5,7 +5,7 @@ https://www.youtube.com/watch?v=RGOj5yH7evk
 
 CP - intro
 https://www.youtube.com/watch?v=xAeiXy8-9Y8
-https://cses.fi/book/book.pdf
+Book - https://cses.fi/book/book.pdf
 
 Solve 800-1200 problems
 https://www.tle-eliminators.com/cp-sheet
