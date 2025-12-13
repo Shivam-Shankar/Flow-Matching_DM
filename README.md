@@ -22,3 +22,5 @@ https://www.youtube.com/watch?v=kvRjNm4rVBE&list=PLgUwDviBIf0rGlzIn_7rsaR2FQ5e6Z
 CS229 - https://youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU&si=hjFcLFW8bFnBFwrV
 
 Paper - 1) https://arxiv.org/pdf/2507.05503 2) https://arxiv.org/pdf/2203.17003
+
+DDPM - https://arxiv.org/abs/2006.11239 YT link - https://www.youtube.com/watch?v=H45lF4sUgiE&t=1388s
